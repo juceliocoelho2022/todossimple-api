@@ -19,3 +19,8 @@
   - [Postman](http://www.postman.com/downloads/)
   - [Git](https://git-scm.com/downloads)
   - [Docker](https://docs.docker.com/desktop/install/windows-install/)
+
+    #Banco de Dados
+   - banco de dados: HeidiSQL
+     
+![image](https://github.com/juceliocoelho2022/todossimple-api/assets/104524218/ca73068a-8337-4255-88dc-ea711c61c1c6)
