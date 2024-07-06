@@ -4,13 +4,13 @@ import devJucelio.com.todosimple.models.User;
 import devJucelio.com.todosimple.models.dto.UserCreateDTO;
 import devJucelio.com.todosimple.models.dto.UserUpdateDTO;
 import devJucelio.com.todosimple.services.UserService;
-import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
+import javax.validation.Valid;
 import java.net.URI;
 
 @RestController

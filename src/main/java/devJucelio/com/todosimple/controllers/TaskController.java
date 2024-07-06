@@ -21,7 +21,7 @@ import devJucelio.com.todosimple.models.Task;
 import devJucelio.com.todosimple.models.projection.TaskProjection;
 import devJucelio.com.todosimple.services.TaskService;
 
-import jakarta.validation.Valid;
+import javax.validation.Valid;
 
 
 @RestController
